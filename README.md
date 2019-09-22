@@ -52,6 +52,12 @@ Laucher.cs启动，其中初始化设定好的棋柱（Cylinder）数量，保�
 
 3.有关游戏暂停的事考虑了Time.timescale = 0来处理，但这个无法避免下棋继续，所以还是考虑用ready变量来限制。
 
+### 效果
+
+![](gif\Learn3DUI.gif)
+
+![](gif\Learn3Dgame.gif)
+
 ### 可以改进部分：
 
 - [ ] 联机部分
